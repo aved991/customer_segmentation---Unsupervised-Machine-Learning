@@ -11,7 +11,7 @@ Pyhon libraries:  scikit learn(sklearn), pandas, matplotlib & seaborn
 TBD-
 
 Points-
-1. Dividing customer in parts- Time, Cost per Transaction, Product Purchase....
+1. A lot visualizations
 2. Application of K-Means Algorithm
 
 # **Notice**
